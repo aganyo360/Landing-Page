@@ -1,7 +1,8 @@
-# Header Section
- This is a markdown
-## Subheader
+# PROJECT DESCRIPTION
+ This is a simple implementation of landing page
+## LANDING PAGE
 
-### This is a subsection header 
-  this is the third header that I have just generated
+### TECHNOLOGIES USED 
+  - html
+  - css
   
